@@ -1,0 +1,11 @@
+<CrearResponse xmlns="http://tempuri.org/">
+	<CrearResult xmlns:a="http://schemas.datacontract.org/2004/07/Core.Crescore" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+		<CodigoRespuesta>
+			-1
+		</CodigoRespuesta>
+		<Descripcion>
+			idserror Insert GarHipoteca ORA-00001: unique constraint (SOFTWORKSR2.PKYGARHIPOTECA) violated
+		</Descripcion>
+		<NumeroCredito />
+	</CrearResult>
+</CrearResponse>
